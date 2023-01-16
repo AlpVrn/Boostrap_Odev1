@@ -1,0 +1,24 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(60, 60, 60) !important;
+}
+
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+    color: rgb(150, 150, 150) !important;
+}
+
+.navbar-brand{
+    color: red !important;
+}
+
+.ortala{
+    text-align: center;
+}
